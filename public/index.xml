@@ -1,4 +1,7 @@
-<!doctype html>
+<Module>
+  <ModulePrefs title="Space"/>
+  <Content type="html">
+    <![CDATA[<!doctype html>
 <html lang="en">
 	<head>
 		<link rel="stylesheet" href="/css/index.css" />
@@ -358,3 +361,6 @@
 		<script async src="https://widget.changelogfy.com/index.js"></script>
 	</body>
 </html>
+]]>
+  </Content>
+</Module>
